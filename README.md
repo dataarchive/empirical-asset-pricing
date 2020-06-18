@@ -19,7 +19,7 @@
 
 **1. Why Python, Github and Markdown?**
 
-Because I want to expose you to these powerful tools. Moreover, the homework is relatively simple, and Prof. Zhou would pay me too much if I just grade your homework and exams :)
+Because I want to expose you to these powerful tools.
 
 **2. What are our benefits?**
 
