@@ -1,6 +1,6 @@
 ## Preparatory Stage
 
-* Here I provide the Python code for "Data Analysis for Investment."
+* Here I provide the Python code (firstly prepared in 2017) for "Data Analysis for Investment."
 
 * It is based on Guofu Zhou's MATLAB code for that course.
 
