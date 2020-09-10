@@ -2,7 +2,7 @@
 
 * Here I provide the Python code (firstly prepared in 2017) for "Data Analysis for Investment."
 
-* It is based on Guofu Zhou's MATLAB code for that course.
+* It is based on Guofu Zhou's MATLAB code for that course and you will also see my Python code in his class.
 
 * The Python distribution I use is [Anaconda](https://www.anaconda.com/what-is-anaconda/). 
 
